@@ -9,7 +9,7 @@
 具体系数箱的六个独立区间均具有严格正宽度，整个箱内每个分母均严格 Hurwitz 稳定。一个显式的实系数恰六次分子满足
 
 $$
-\operatorname{Re}\left(\frac{b(i\omega)}{a(i\omega)}\right)>0
+\mathrm{Re}\left(\frac{b(i\omega)}{a(i\omega)}\right)>0
 \quad\text{对箱内每个分母 }a\text{ 以及每个 }\omega\in\mathbb R.
 $$
 
