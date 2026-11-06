@@ -9,7 +9,7 @@ A standalone Lean 4 / mathlib proof of an explicit sextic interval example showi
 The concrete coefficient box has six independent intervals of strictly positive width. Every denominator in the entire box is strictly Hurwitz stable. One explicit real numerator of exact degree six satisfies
 
 $$
-\operatorname{Re}\left(\frac{b(i\omega)}{a(i\omega)}\right)>0
+\mathrm{Re}\left(\frac{b(i\omega)}{a(i\omega)}\right)>0
 \quad\text{for every box member }a\text{ and every }\omega\in\mathbb R.
 $$
 
